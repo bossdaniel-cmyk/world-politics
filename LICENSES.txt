@@ -1,0 +1,25 @@
+World Politics — сторонние материалы и их лицензии
+==================================================
+
+Карта
+  Natural Earth (naturalearthdata.com) — общественное достояние (public domain).
+  Границы, названия и линии контроля упрощены и приведены на начало 2026 года для игровых целей.
+
+Флаги
+  flag-icons (github.com/lipis/flag-icons) — лицензия MIT.
+  Copyright (c) 2013 Panayiotis Lipiridis.
+
+Иконки
+  Lucide (lucide.dev) — лицензия ISC.
+  Copyright (c) for portions of Lucide are held by Cole Bemis 2013-2022 as part of Feather (MIT).
+  All other copyright (c) for Lucide are held by Lucide Contributors 2022.
+
+Шрифты
+  Inter — SIL Open Font License 1.1 (Rasmus Andersson).
+  Unbounded — SIL Open Font License 1.1 (The Unbounded Project Authors).
+  PT Serif — SIL Open Font License 1.1 (ParaType Inc.).
+
+Библиотеки
+  Preact — лицензия MIT. topojson-client — лицензия ISC.
+
+Игра — вымышленная симуляция. События партий, решения ИИ и тексты в игре не отражают позицию авторов.
