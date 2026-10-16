@@ -1,0 +1,17 @@
+{
+  "name": "World Politics — стратегия 2026",
+  "short_name": "World Politics",
+  "description": "Глобальная стратегия в реальном времени: Европа и Ближний Восток в 2026 году.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#eef2f6",
+  "theme_color": "#2456d3",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
