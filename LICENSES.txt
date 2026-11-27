@@ -4,6 +4,8 @@ World Politics — сторонние материалы и их лицензи�
 Карта
   Natural Earth (naturalearthdata.com) — общественное достояние (public domain).
   Границы, названия и линии контроля упрощены и приведены на начало 2026 года для игровых целей.
+  Рельеф: AWS Terrain Tiles / Mapzen Terrarium (открытые данные). Источники: SRTM (NASA), GMTED2010 (USGS),
+  ETOPO1 (NOAA) и другие — https://github.com/tilezen/joerd/blob/master/docs/attribution.md
 
 Флаги
   flag-icons (github.com/lipis/flag-icons) — лицензия MIT.
