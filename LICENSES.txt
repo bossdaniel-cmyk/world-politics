@@ -7,6 +7,13 @@ World Politics — сторонние материалы и их лицензи�
   Рельеф: AWS Terrain Tiles / Mapzen Terrarium (открытые данные). Источники: SRTM (NASA), GMTED2010 (USGS),
   ETOPO1 (NOAA) и другие — https://github.com/tilezen/joerd/blob/master/docs/attribution.md
 
+Музыка (OpenGameArt.org, CC0 — общественное достояние; авторов указываем из благодарности)
+  «A Legend Will Rise» — codemanu; «At Home (Orchestral)» — wolfgang; «The Hope» — tad;
+  «Unexplored (Expanded)» — bo-jingles по теме tad; «Lament of the War» — Cethiel;
+  «Battle Theme A» и «Epic Endgame Cinematic» — cynicmusic; «Determined Pursuit» — Emma_MA;
+  «Prepare to Fight» — Basil; «Battle Theme» (battle-theme-0) — OpenGameArt.
+  Звуковые эффекты синтезируются в игре.
+
 Флаги
   flag-icons (github.com/lipis/flag-icons) — лицензия MIT.
   Copyright (c) 2013 Panayiotis Lipiridis.
